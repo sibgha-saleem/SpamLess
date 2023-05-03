@@ -6,8 +6,8 @@ You need to build Admin Panel. Following are the Requirements:
 - Admin could see all the categories in form of table in categories page.
 - When click on the Category Name new page is open which will show all the products of that category in form of table. 
 - Admin could see all the products of the website in form of table in products page.
-- Admin could add the new Product. When click on add product button form will open which will ask for product name and category name. On
-  Adding new product overall rating will be zero and no. of review will also be zero
+- Admin could add the new Product. When click on add product button form will open which will ask for product name, product picture and category name. On
+  adding new product's overall rating will be zero and no. of review will also be zero.
 - When click on Product name new page will open will show all the reviews of that product in form of table.
 - Admin could see all the reviews on the website in Reviews page in form of table.
 - When click on Spam Reviews table all the spam reviews will displaed in form of table in new page.
